@@ -26,14 +26,14 @@ Open the ZIP file and extract the folder onto your computer.
 Open the folder and double-click on the 'Dropshipping Price Calculator.py' to run the program.
 ```
 
-Example of program:
+**Example of program:**
 ```
-Enter the price of your item: $25                                                                                       
-Enter the tax cost of your item (Enter 0 if none): $0                                                                   
-Enter the shipping cost of your item (Enter 0 if none): $5      
+Enter the price of your item: $25
+Enter the tax cost of your item (Enter 0 if none): $0
+Enter the shipping cost of your item (Enter 0 if none): $5
                                                         
-Your selling price is $42.00                                                                                                                                                                                                                    
-Enter F to close the program. Press ENTER to calculate another price.   
+Your selling price is $42.00
+Enter F to close the program. Press ENTER to calculate another price.
 ```
 
 ## Built With
